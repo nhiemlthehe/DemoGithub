@@ -30,7 +30,7 @@ public class ChaoDialog extends javax.swing.JDialog {
 
                 for (int i = 0; i <= 100; i++) {
                     try {
-                        Thread.sleep(20);
+                        Thread.sleep(5);
                         lblLoadingValue.setText(i + "%");
                         progressBar.setValue(i);
                         if (i == 100) {
