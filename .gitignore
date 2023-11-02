@@ -1,0 +1,14 @@
+# Created by httpswww.toptal.comdevelopersgitignoreapinetbeans
+# Edit at httpswww.toptal.comdevelopersgitignoretemplates=netbeans
+
+### NetBeans ###
+nbprojectprivate
+nbprojectMakefile-.mk
+nbprojectPackage-.bash
+build
+nbbuild
+dist
+nbdist
+.nb-gradle
+
+# End of httpswww.toptal.comdevelopersgitignoreapinetbeans
